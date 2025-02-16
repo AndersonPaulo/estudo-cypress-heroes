@@ -1,0 +1,35 @@
+{
+  "UserSucess" :{
+
+      "email": "admin@test.com",
+      "password": "test123"
+  },
+
+  "UserEmailwrong" :{
+
+    "email": "admim@teste.com",
+    "password": "test123"
+
+  },  
+
+  "UserPasswordWrong" :{
+
+    "email": "admin@test.com",
+    "password": "test321"
+
+  },
+  "UserEmpty":{
+
+    "email": "    ",
+    "password": "    "
+    },
+    "UserEmailEmpty":{
+      "email": "    ",
+      "password":"test123"
+    },
+    "UserPasswordEmpty":{
+      "email": "admim@teste.com",
+      "password": "    "
+    }
+}
+
