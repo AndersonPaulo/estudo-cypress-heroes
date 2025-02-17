@@ -8,6 +8,8 @@ Este documento descreve os casos de teste para a funcionalidade de login e a pá
 
 # Home Test
 
-<img src="./imagens/testin_Casa_Home.png.png" alt="login teste">
+<img src="./imagens/testin_Casa_Home.png" alt="home teste">
 
 # Creat New Heroes Page Test
+
+<img src="./imagens/testin_Casa_Home.png" alt="creat teste">
