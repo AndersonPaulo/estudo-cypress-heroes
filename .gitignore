@@ -12,7 +12,8 @@ dist
 dist-ssr
 .env.local
 */prisma/data
-
+.github
+.vscode
 # Tests
 coverage
 .nyc_output
