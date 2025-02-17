@@ -4,9 +4,10 @@ Este documento descreve os casos de teste para a funcionalidade de login e a pá
 
 # Login Test
 
-<img src="../cypress-heroes/imagens/testin_Casa_Login.png" alt="login teste">
+<img src="./imagens/testin_Casa_Login.png" alt="login teste">
 
 # Home Test
 
-<img src="../cypress-heroes/imagens/testin_Casa_Home.png.png" alt="login teste">
+<img src="./imagens/testin_Casa_Home.png.png" alt="login teste">
 
+# Creat New Heroes Page Test
