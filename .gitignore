@@ -15,6 +15,7 @@ dist-ssr
 .github
 .vscode
 server
+client
 # Tests
 coverage
 .nyc_output
