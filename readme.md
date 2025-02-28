@@ -1,6 +1,6 @@
 # Testes Cypress Heroes Demo Application
 
-Este documento descreve os casos de teste para a funcionalidade de login e a página inicial do Cypress Heroes Demo Application. Cada caso de teste inclui os passos a serem seguidos, o resultado esperado e o status do teste.
+Este documento descreve os casos de teste para a funcionalidade de login e a página inicial do Cypress Heroes Demo Application. Cada caso de teste inclui os passos a serem seguidos, o resultado esperado e o status do teste. O código foi desenvolvido utilizando o padrão Page Objects, garantindo uma estrutura organizada e de fácil manutenção.
 
 # Login Test
 
@@ -12,4 +12,4 @@ Este documento descreve os casos de teste para a funcionalidade de login e a pá
 
 # Creat New Heroes Page Test
 
-<img src="./imagens/testin_Casa_Home.png" alt="creat teste">
+<img src="./imagens/testin_Casa_create-New-Heroes.png" alt="creat teste">

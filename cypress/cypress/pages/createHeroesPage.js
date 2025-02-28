@@ -12,7 +12,8 @@ class createHeroesPage{
             fillSave: "[data-cy='savesInput']",
             powersSelect:"[data-cy='powersSelect']",
             avatarSelect: "[data-cy='avatarFile']",
-            submitButton: ".text-white"
+            submitButton: ".text-white",
+            imageClick: "[alt='Cypress Heroes Logo']"
         }
         return selectors
 
@@ -28,6 +29,10 @@ class createHeroesPage{
         cy.get(this.selectorsList().avatarSelect).selectFile("../TRR_Shotgun_Model.webp")
         cy.get(this.selectorsList().submitButton).eq(1).click()
 
+    }
+    HomeReturn(){
+        cy.get(this.selectorsList().createHeroesButton).click()
+        cy.get(this.selectorsList().imageClick).click()
     }
 
 
